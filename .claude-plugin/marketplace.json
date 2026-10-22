@@ -1,0 +1,20 @@
+{
+  "name": "claude-consulting-team",
+  "metadata": {
+    "description": "120 business consulting roles across 6 practice areas plus 6 engagement workflows for Claude Code.",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "Nomanriaz786",
+    "url": "https://github.com/Nomanriaz786"
+  },
+  "plugins": [
+    {
+      "name": "claude-consulting-team",
+      "source": "./",
+      "description": "120 business consulting roles across 6 practice areas plus 6 engagement workflows for Claude Code.",
+      "category": "productivity",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "claude-consulting-team",
+  "version": "1.0.0",
+  "description": "120 business consulting roles across 6 practice areas plus 6 engagement workflows, each as a Claude skill or slash command.",
+  "author": {
+    "name": "Nomanriaz786",
+    "url": "https://github.com/Nomanriaz786"
+  },
+  "keywords": ["consulting", "strategy", "finance", "operations", "skills", "workflows"]
+}
