@@ -1,7 +1,7 @@
 {
   "name": "claude-consulting-team",
-  "version": "1.0.0",
-  "description": "Open-source Claude Code plugin with 120 business consulting skills and 6 workflows: strategy, finance, pricing, operations, technology risk and board-ready executive reporting.",
+  "version": "1.1.0",
+  "description": "Open-source Claude Code plugin with 132 business consulting skills and 6 workflows: strategy, finance, pricing, operations, technology risk and board-ready executive reporting.",
   "author": {
     "name": "Nomanriaz786",
     "url": "https://github.com/Nomanriaz786"
