@@ -64,6 +64,12 @@ commands/         6 engagement workflows
 templates/        CLAUDE.md engagement lead and client-context.md
 ```
 
-## Credit
+## Contributing
 
-Role and workflow content is from "The Complete Claude Business Consulting Team (2026)" guide published by LeadPanther, packaged here for installation.
+New roles, workflows and rules are welcome. Add a role as `skills/<role-name>/SKILL.md` using the same five sections: when to use it, what Claude needs, method, output format, quality checks. Add a workflow as `commands/<name>.md`. Open a pull request.
+
+## License and credit
+
+The plugin packaging, README, templates and all new contributions are released under the [MIT License](LICENSE).
+
+The original 120 roles and 6 workflows are adapted from "The Complete Claude Business Consulting Team (2026)", a free guide published by LeadPanther. All credit for that content goes to its author. If you are the author and want changes to the credit or the content removed, please open an issue and it will be handled promptly.
