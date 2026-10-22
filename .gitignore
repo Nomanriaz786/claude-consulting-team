@@ -2,3 +2,4 @@ outputs/
 client-context.md
 .DS_Store
 Thumbs.db
+.playwright-mcp/

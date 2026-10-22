@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Claude Consulting Team: 120 roles, 6 practice areas, 6 workflows for Claude Code">
+  <defs>
+    <radialGradient id="glow" cx="0.15" cy="0.2" r="0.7">
+      <stop offset="0" stop-color="#E8743B" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#E8743B" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#FFFFFF" fill-opacity="0.05"/>
+    </pattern>
+    <g id="i-clients" fill="none" stroke="#E8743B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="12" r="5"/><circle cx="15" cy="12" r="5"/></g>
+    <g id="i-research" fill="none" stroke="#E8743B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5 5"/></g>
+    <g id="i-finance" fill="none" stroke="#E8743B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 19v-6M10 19V9M15 19v-8M20 19V5"/></g>
+    <g id="i-ops" fill="none" stroke="#E8743B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3.5"/><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M5.6 18.4l2.1-2.1M16.3 7.7l2.1-2.1"/></g>
+    <g id="i-risk" fill="none" stroke="#E8743B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4.5-3 8-7 10-4-2-7-5.5-7-10V6z"/><path d="M9 12l2 2 4-4"/></g>
+    <g id="i-delivery" fill="none" stroke="#E8743B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3h7l4 4v14H7z"/><path d="M14 3v4h4M10 12h5M10 16h5"/></g>
+  </defs>
+
+  <rect width="1280" height="640" rx="24" fill="#0E1116"/>
+  <rect width="1280" height="640" rx="24" fill="url(#dots)"/>
+  <rect width="1280" height="640" rx="24" fill="url(#glow)"/>
+
+  <g font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif">
+    <!-- Left column -->
+    <rect x="64" y="72" width="214" height="32" rx="16" fill="none" stroke="#E8743B" stroke-opacity="0.6"/>
+    <text x="171" y="93" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2" fill="#E8743B">CLAUDE CODE PLUGIN</text>
+
+    <text x="62" y="196" font-size="72" font-weight="800" fill="#F2EEE8">Claude</text>
+    <text x="62" y="270" font-size="72" font-weight="800" fill="#F2EEE8">Consulting</text>
+    <text x="62" y="344" font-size="72" font-weight="800" fill="#E8743B">Team.</text>
+
+    <text x="64" y="396" font-size="21" fill="#9AA3AE">A full business consulting team</text>
+    <text x="64" y="424" font-size="21" fill="#9AA3AE">you run inside Claude Code.</text>
+
+    <text x="64" y="500" font-size="44" font-weight="800" fill="#F2EEE8">120</text>
+    <text x="64" y="526" font-size="14" font-weight="600" letter-spacing="1.5" fill="#9AA3AE">ROLES</text>
+    <line x1="172" y1="466" x2="172" y2="526" stroke="#2A303A" stroke-width="2"/>
+    <text x="196" y="500" font-size="44" font-weight="800" fill="#F2EEE8">6</text>
+    <text x="196" y="526" font-size="14" font-weight="600" letter-spacing="1.5" fill="#9AA3AE">PRACTICE AREAS</text>
+    <line x1="350" y1="466" x2="350" y2="526" stroke="#2A303A" stroke-width="2"/>
+    <text x="374" y="500" font-size="44" font-weight="800" fill="#F2EEE8">6</text>
+    <text x="374" y="526" font-size="14" font-weight="600" letter-spacing="1.5" fill="#9AA3AE">WORKFLOWS</text>
+
+    <!-- Practice area tiles: columns x=620, 926; rows y=72, 228, 384 -->
+    <g>
+      <rect x="620" y="72" width="290" height="140" rx="16" fill="#171B22" stroke="#2A303A"/>
+      <rect x="642" y="94" width="44" height="44" rx="10" fill="#E8743B" fill-opacity="0.12"/>
+      <use xlink:href="#i-clients" transform="translate(652 104) scale(1)"/>
+      <text x="888" y="121" text-anchor="end" font-size="13" font-weight="600" fill="#9AA3AE">01 · 20 roles</text>
+      <text x="642" y="174" font-size="19" font-weight="700" fill="#F2EEE8">Clients &amp;</text>
+      <text x="642" y="196" font-size="19" font-weight="700" fill="#F2EEE8">Engagements</text>
+    </g>
+    <g>
+      <rect x="926" y="72" width="290" height="140" rx="16" fill="#171B22" stroke="#2A303A"/>
+      <rect x="948" y="94" width="44" height="44" rx="10" fill="#E8743B" fill-opacity="0.12"/>
+      <use xlink:href="#i-research" transform="translate(958 104)"/>
+      <text x="1194" y="121" text-anchor="end" font-size="13" font-weight="600" fill="#9AA3AE">02 · 20 roles</text>
+      <text x="948" y="174" font-size="19" font-weight="700" fill="#F2EEE8">Research &amp;</text>
+      <text x="948" y="196" font-size="19" font-weight="700" fill="#F2EEE8">Strategy</text>
+    </g>
+    <g>
+      <rect x="620" y="228" width="290" height="140" rx="16" fill="#171B22" stroke="#2A303A"/>
+      <rect x="642" y="250" width="44" height="44" rx="10" fill="#E8743B" fill-opacity="0.12"/>
+      <use xlink:href="#i-finance" transform="translate(652 260)"/>
+      <text x="888" y="277" text-anchor="end" font-size="13" font-weight="600" fill="#9AA3AE">03 · 20 roles</text>
+      <text x="642" y="330" font-size="19" font-weight="700" fill="#F2EEE8">Finance &amp;</text>
+      <text x="642" y="352" font-size="19" font-weight="700" fill="#F2EEE8">Commercial</text>
+    </g>
+    <g>
+      <rect x="926" y="228" width="290" height="140" rx="16" fill="#171B22" stroke="#2A303A"/>
+      <rect x="948" y="250" width="44" height="44" rx="10" fill="#E8743B" fill-opacity="0.12"/>
+      <use xlink:href="#i-ops" transform="translate(958 260)"/>
+      <text x="1194" y="277" text-anchor="end" font-size="13" font-weight="600" fill="#9AA3AE">04 · 20 roles</text>
+      <text x="948" y="330" font-size="19" font-weight="700" fill="#F2EEE8">Operations &amp;</text>
+      <text x="948" y="352" font-size="19" font-weight="700" fill="#F2EEE8">Transformation</text>
+    </g>
+    <g>
+      <rect x="620" y="384" width="290" height="140" rx="16" fill="#171B22" stroke="#2A303A"/>
+      <rect x="642" y="406" width="44" height="44" rx="10" fill="#E8743B" fill-opacity="0.12"/>
+      <use xlink:href="#i-risk" transform="translate(652 416)"/>
+      <text x="888" y="433" text-anchor="end" font-size="13" font-weight="600" fill="#9AA3AE">05 · 20 roles</text>
+      <text x="642" y="486" font-size="19" font-weight="700" fill="#F2EEE8">Technology,</text>
+      <text x="642" y="508" font-size="19" font-weight="700" fill="#F2EEE8">Data &amp; Risk</text>
+    </g>
+    <g>
+      <rect x="926" y="384" width="290" height="140" rx="16" fill="#171B22" stroke="#2A303A"/>
+      <rect x="948" y="406" width="44" height="44" rx="10" fill="#E8743B" fill-opacity="0.12"/>
+      <use xlink:href="#i-delivery" transform="translate(958 416)"/>
+      <text x="1194" y="433" text-anchor="end" font-size="13" font-weight="600" fill="#9AA3AE">06 · 20 roles</text>
+      <text x="948" y="486" font-size="19" font-weight="700" fill="#F2EEE8">Executive</text>
+      <text x="948" y="508" font-size="19" font-weight="700" fill="#F2EEE8">Delivery</text>
+    </g>
+
+    <!-- Install bar -->
+    <rect x="64" y="560" width="1152" height="48" rx="12" fill="#171B22" stroke="#2A303A"/>
+    <text x="88" y="590" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="17" fill="#E8743B">$</text>
+    <text x="110" y="590" font-family="Consolas, 'SF Mono', Menlo, monospace" font-size="17" fill="#F2EEE8">/plugin marketplace add Nomanriaz786/claude-consulting-team</text>
+    <text x="1192" y="590" text-anchor="end" font-size="14" font-weight="600" fill="#9AA3AE">MIT · open source</text>
+  </g>
+</svg>

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Claude Consulting Team: 120 roles, 6 practice areas, 6 workflows for Claude Code" width="100%">
+</p>
+
 # Claude Consulting Team
 
 A complete business consulting team you run inside Claude Code: 120 consulting roles across 6 practice areas, plus 6 engagement workflows that chain the roles into full engagements.
