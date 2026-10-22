@@ -1,3 +1,7 @@
+---
+description: Turn an initial prospect conversation into an approved proposal.
+---
+
 Goal: Turn an initial prospect conversation into an approved proposal.
 Inputs: client-context.md, prospect notes, known constraints, target decision date.
 1. Run `discovery-call-prep`.

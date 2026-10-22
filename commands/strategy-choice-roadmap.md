@@ -1,3 +1,7 @@
+---
+description: Convert an ambiguous growth question into a strategic roadmap.
+---
+
 Goal: Convert an ambiguous growth question into a strategic roadmap.
 Inputs: client-context.md, leadership question, available research, planning horizon.
 1. Run `issue-tree` on the leadership question.

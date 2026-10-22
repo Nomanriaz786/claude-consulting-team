@@ -1,3 +1,7 @@
+---
+description: Secure a decision and transfer an executable plan to owners.
+---
+
 Goal: Secure a decision and transfer an executable plan to owners.
 Inputs: client-context.md, recommendation, evidence, constraints, target dates.
 1. Run `options-assessment` on the available choices.

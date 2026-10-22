@@ -1,7 +1,7 @@
 {
   "name": "claude-consulting-team",
   "metadata": {
-    "description": "120 business consulting roles across 6 practice areas plus 6 engagement workflows for Claude Code.",
+    "description": "Open-source Claude Code plugin with 120 business consulting skills and 6 workflows: strategy, finance, pricing, operations, technology risk and board-ready executive reporting.",
     "version": "1.0.0"
   },
   "owner": {
@@ -12,9 +12,26 @@
     {
       "name": "claude-consulting-team",
       "source": "./",
-      "description": "120 business consulting roles across 6 practice areas plus 6 engagement workflows for Claude Code.",
+      "description": "Open-source Claude Code plugin with 120 business consulting skills and 6 workflows: strategy, finance, pricing, operations, technology risk and board-ready executive reporting.",
       "category": "productivity",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "keywords": [
+        "claude-code",
+        "claude-skills",
+        "claude-plugin",
+        "business-consulting",
+        "management-consulting",
+        "strategy",
+        "financial-analysis",
+        "cash-flow",
+        "pricing",
+        "operations",
+        "risk-assessment",
+        "board-paper",
+        "consultants",
+        "founders",
+        "workflows"
+      ]
     }
   ]
 }

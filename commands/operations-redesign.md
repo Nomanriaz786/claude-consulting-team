@@ -1,3 +1,7 @@
+---
+description: Redesign a core process and prepare it for adoption.
+---
+
 Goal: Redesign a core process and prepare it for adoption.
 Inputs: client-context.md, process records, performance data, staff input.
 1. Run `process-mapping` on the current process.

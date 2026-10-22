@@ -1,0 +1,25 @@
+# Claude Consulting Team
+
+> Free, open-source Claude Code plugin that adds 120 business consulting skills and 6 end-to-end engagement workflows to Claude. Covers client acquisition, strategy, finance, operations, technology risk and executive reporting. MIT licensed.
+
+Install in Claude Code:
+/plugin marketplace add Nomanriaz786/claude-consulting-team
+/plugin install claude-consulting-team@claude-consulting-team
+
+Or: npx skills add Nomanriaz786/claude-consulting-team
+
+## Docs
+
+- [README](https://github.com/Nomanriaz786/claude-consulting-team/blob/main/README.md): overview, install, example prompts, FAQ
+- [Skills](https://github.com/Nomanriaz786/claude-consulting-team/tree/main/skills): 120 skills, one SKILL.md each with when to use, inputs, method, output format and quality checks
+- [Workflows](https://github.com/Nomanriaz786/claude-consulting-team/tree/main/commands): 6 slash-command workflows that chain skills with review checkpoints
+- [Templates](https://github.com/Nomanriaz786/claude-consulting-team/tree/main/templates): CLAUDE.md engagement lead and client-context.md
+
+## Practice areas
+
+- Clients & Engagements: ideal client profile, discovery calls, qualification, scoping, fees, proposals
+- Research & Strategy: issue trees, market sizing, competitors, positioning, growth options, roadmaps
+- Finance & Commercial Performance: cash flow, unit economics, pricing, profitability, funnels, churn
+- Operations & Transformation: process mapping, bottlenecks, SOPs, supply chain, organisation design, change
+- Technology, Data & Risk: AI opportunities, cyber and vendor risk, data quality, privacy, due diligence
+- Executive Delivery: board papers, executive summaries, decision memos, steering packs, handovers

@@ -1,3 +1,7 @@
+---
+description: Diagnose commercial performance and define priority actions.
+---
+
 Goal: Diagnose commercial performance and define priority actions.
 Inputs: client-context.md, financial statements, sales data, customer data.
 1. Run `financial-statement-diagnostic` on current results.

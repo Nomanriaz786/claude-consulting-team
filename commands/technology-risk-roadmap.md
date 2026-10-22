@@ -1,3 +1,7 @@
+---
+description: Assess the technology environment and create a risk-aware roadmap.
+---
+
 Goal: Assess the technology environment and create a risk-aware roadmap.
 Inputs: client-context.md, system inventory, architecture records, risk records.
 1. Run `technology-stack-assessment` on current systems.

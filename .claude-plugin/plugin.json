@@ -1,10 +1,29 @@
 {
   "name": "claude-consulting-team",
   "version": "1.0.0",
-  "description": "120 business consulting roles across 6 practice areas plus 6 engagement workflows, each as a Claude skill or slash command.",
+  "description": "Open-source Claude Code plugin with 120 business consulting skills and 6 workflows: strategy, finance, pricing, operations, technology risk and board-ready executive reporting.",
   "author": {
     "name": "Nomanriaz786",
     "url": "https://github.com/Nomanriaz786"
   },
-  "keywords": ["consulting", "strategy", "finance", "operations", "skills", "workflows"]
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "claude-plugin",
+    "business-consulting",
+    "management-consulting",
+    "strategy",
+    "financial-analysis",
+    "cash-flow",
+    "pricing",
+    "operations",
+    "risk-assessment",
+    "board-paper",
+    "consultants",
+    "founders",
+    "workflows"
+  ],
+  "homepage": "https://github.com/Nomanriaz786/claude-consulting-team",
+  "repository": "https://github.com/Nomanriaz786/claude-consulting-team",
+  "license": "MIT"
 }
